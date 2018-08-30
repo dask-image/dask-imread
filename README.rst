@@ -1,3 +1,6 @@
+This is **unmaintained**. Please see `dask/dask-image`_ instead.
+
+
 ===========
 dask-imread
 ===========
@@ -47,4 +50,5 @@ This package was created with Cookiecutter_ and the `dask-image/dask-image-cooki
 
 .. _Cookiecutter: https://github.com/audreyr/cookiecutter
 .. _`dask-image/dask-image-cookiecutter`: https://github.com/dask-image/dask-image-cookiecutter
+.. _`dask/dask-image`: https://github.com/dask/dask-image
 
